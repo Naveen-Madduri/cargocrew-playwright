@@ -1,1 +1,2 @@
 # cargocrew-playwright
+test
